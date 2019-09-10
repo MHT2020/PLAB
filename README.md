@@ -1,4 +1,3 @@
 # PLAB
 
-Back in March 2019 when I started to work as Hiwi in chair of sensors and measurement in TU Chemnitz, the PLAB project began. One area of interest in our chair is wireless sensor networks in which low power consumption is a must. So, the aim was designing a ZigBee low power WSN node and power supply (which is out of scope of this project) for the nodes.
-
+Back in March 2019 when I started to work as Hiwi in chair of sensors and measurement in TU Chemnitz, the PLAB project began. One area of interest in our chair is wireless sensor networks in which low power consumption is a must. Therefore, the aim was designing a ZigBee low power WSN node and power supply (which is out of scope of this project) for the nodes. Since I was doing project lab for my embedded systems master course at the sasme time, I used this topic and named the node PLAB, a short form for project lab. So far we have developed two versions of PLAB. PLAB1 is based on MSP430FR5738 TI ultra low power 16-bit microcontroller including 3 LEDs for status and monitoring.  
